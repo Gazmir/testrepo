@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is Bob
 This is Bob c1
+=======
+This is Alice c1
+This is Bob
+>>>>>>> 09c0eb4e5983da995615329aa0fa88b07e40b5eb
