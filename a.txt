@@ -2,4 +2,8 @@ This is a.txt
  This is Alice's change
   Change C2
    Change C3
+<<<<<<< HEAD
   Alice Change
+=======
+  Change Gazi
+>>>>>>> 347c66fa7aa7d5a3b272d3de36bb3c95d2ef281c
